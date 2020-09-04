@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/FlourishConsulting/static/css/main.e2b377cb.chunk.css",
-    "main.js": "/FlourishConsulting/static/js/main.57559069.chunk.js",
-    "main.js.map": "/FlourishConsulting/static/js/main.57559069.chunk.js.map",
-    "runtime-main.js": "/FlourishConsulting/static/js/runtime-main.9b7c7b60.js",
-    "runtime-main.js.map": "/FlourishConsulting/static/js/runtime-main.9b7c7b60.js.map",
-    "static/js/2.114a58f7.chunk.js": "/FlourishConsulting/static/js/2.114a58f7.chunk.js",
-    "static/js/2.114a58f7.chunk.js.map": "/FlourishConsulting/static/js/2.114a58f7.chunk.js.map",
-    "index.html": "/FlourishConsulting/index.html",
-    "precache-manifest.503736f6bca8e0787afb3fc2d6c7f429.js": "/FlourishConsulting/precache-manifest.503736f6bca8e0787afb3fc2d6c7f429.js",
-    "service-worker.js": "/FlourishConsulting/service-worker.js",
-    "static/css/main.e2b377cb.chunk.css.map": "/FlourishConsulting/static/css/main.e2b377cb.chunk.css.map",
-    "static/js/2.114a58f7.chunk.js.LICENSE.txt": "/FlourishConsulting/static/js/2.114a58f7.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/FlourishConsulting/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/Flourish2/static/css/main.e2b377cb.chunk.css",
+    "main.js": "/Flourish2/static/js/main.45ff03b6.chunk.js",
+    "main.js.map": "/Flourish2/static/js/main.45ff03b6.chunk.js.map",
+    "runtime-main.js": "/Flourish2/static/js/runtime-main.c870a563.js",
+    "runtime-main.js.map": "/Flourish2/static/js/runtime-main.c870a563.js.map",
+    "static/js/2.114a58f7.chunk.js": "/Flourish2/static/js/2.114a58f7.chunk.js",
+    "static/js/2.114a58f7.chunk.js.map": "/Flourish2/static/js/2.114a58f7.chunk.js.map",
+    "index.html": "/Flourish2/index.html",
+    "precache-manifest.42f713218fb2422206511dbbe15a43da.js": "/Flourish2/precache-manifest.42f713218fb2422206511dbbe15a43da.js",
+    "service-worker.js": "/Flourish2/service-worker.js",
+    "static/css/main.e2b377cb.chunk.css.map": "/Flourish2/static/css/main.e2b377cb.chunk.css.map",
+    "static/js/2.114a58f7.chunk.js.LICENSE.txt": "/Flourish2/static/js/2.114a58f7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Flourish2/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b7c7b60.js",
+    "static/js/runtime-main.c870a563.js",
     "static/js/2.114a58f7.chunk.js",
     "static/css/main.e2b377cb.chunk.css",
-    "static/js/main.57559069.chunk.js"
+    "static/js/main.45ff03b6.chunk.js"
   ]
 }
