@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FlourishConsulting/precache-manifest.00b35c8deb29b9c81285f60201c2d238.js"
+  "/FlourishConsulting/precache-manifest.503736f6bca8e0787afb3fc2d6c7f429.js"
 );
 
 self.addEventListener('message', (event) => {
